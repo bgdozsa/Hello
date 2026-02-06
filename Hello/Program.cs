@@ -27,16 +27,9 @@ namespace Hello
             Console.WriteLine("Maros Máté a helyszínen");
             Console.WriteLine("---------------------------");
 
+            ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;
 
-
-
-
-
-
-
-
-
-
+            Console.WriteLine("pull req");
 
 
 
