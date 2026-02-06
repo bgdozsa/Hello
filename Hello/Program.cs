@@ -22,6 +22,25 @@ namespace Hello
             Console.WriteLine("Pálosi Mester");
             Console.WriteLine("---------------------------");
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Console.WriteLine("Én vagyok K. Alex");
+            Console.WriteLine("---------------------------");
+            
             Console.ReadKey();
         }
     }
