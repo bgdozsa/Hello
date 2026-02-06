@@ -19,6 +19,11 @@ namespace Hello
             Console.WriteLine("Én vagyok P. Gábor");
             Console.WriteLine("---------------------------");
 
+            Console.WriteLine("Pálosi Mester");
+            Console.WriteLine("---------------------------");
+
+
+
             Console.WriteLine("Maros Máté a helyszínen");
             Console.WriteLine("---------------------------");
 
