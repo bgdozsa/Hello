@@ -16,6 +16,9 @@ namespace Hello
             Console.WriteLine("Bencus was here. (Farkas Bence)");
             Console.WriteLine("---------------------------");
 
+            Console.WriteLine("Én vagyok P. Gábor");
+            Console.WriteLine("---------------------------");
+
             Console.ReadKey();
         }
     }
